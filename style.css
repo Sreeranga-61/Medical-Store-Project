@@ -146,6 +146,12 @@ nav .fa{
     .text-box h1{
         font-size: 20px;
     }
+    .header{
+        overflow-x: hidden;
+    }    
+    .sub-header{
+        overflow-x: hidden;
+    }
     .nav-links ul li{
         display: block;
     }
